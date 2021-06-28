@@ -10,3 +10,5 @@
   <li>refuse urges of instant gratification</li>
   <li>Daily reflection</li>
     </ul>
+### Captains' log
+I've completed the first task. I grow wiser by the day. I must eat
