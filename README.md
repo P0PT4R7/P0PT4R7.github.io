@@ -13,4 +13,5 @@
 <h3>Captains' log</h3>
 I've completed the first task. I grow wiser by the day. I must eat
 
-  [My GitHub](https://github.com/P0PT4R7)
+  [My GitHub](https://github.com/P0PT4R7) [Markdown](https://p0pt4r7.github.io/markdown)
+  
