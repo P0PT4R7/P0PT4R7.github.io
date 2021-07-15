@@ -9,7 +9,8 @@
   <li>Taking breaks</li>
   <li>refuse urges of instant gratification</li>
   <li>Daily reflection</li>
-    </ul>
+   </ul>
+
 ToC <br>
 
   [My GitHub](https://github.com/P0PT4R7) <br> 
