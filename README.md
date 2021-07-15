@@ -9,7 +9,7 @@
   <li>Taking breaks</li>
   <li>refuse urges of instant gratification</li>
   <li>Daily reflection</li>
-   </ul>
+  </ul>
 
 <br> <h3>ToC </h3> <br>
 
